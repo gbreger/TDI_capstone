@@ -1,7 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gbreger/TDI_capstone/HEAD)
 
-Binder: https://hub.binder.curvenote.dev/user/gbreger-tdi_capstone-temmqdpn/lab
-
 # Predicting sales of video game development proposals
 The video game industry is a multi-billion dollar industry, with new games coming out every day. The project aims to provide studios and publishers with projections of expected sales to better determine in which proposed video game project should they invest, maximizing their use of resources, financial or otherwise (though arguably, some video games should be made, regardless of their profitability).
 
