@@ -1,2 +1,8 @@
 .ipynb_checkpoints/
 __pycache__/
+companies.csv
+genres.csv
+igdb_raw.csv
+original_data_sets/
+tdi_capstone_model_experimental.ipynb
+
